@@ -1,0 +1,5 @@
+method,params,edge_strength,background_noise,clipped_pct
+none,,42.35,0.009,0.02
+laplacian,c=1.0,45.81,0.048,0.14
+unsharp,ksize=5 sigma=1.0 k=1.5,44.46,0.02,0.07
+highpass,d0=60 order=2 k=1.0,45.42,0.019,0.08
